@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@clack/prompts": "^0.11.0",
-    "chokidar": "^4.0.3",
+    "chokidar": "^5.0.0",
     "cors": "^2.8.5",
     "diff": "^8.0.2",
     "express": "^4.21.2",
